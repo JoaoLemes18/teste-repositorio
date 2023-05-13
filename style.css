@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=Montserrat&display=swap");
+
+body {
+  color: #ffffff;
+  font-family: "DM Sans";
+  background-color: #36322f;
+}
+h1 {
+  position: absolute;
+  width: 800px;
+  height: 0;
+  color: #ffffff;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 750;
+  font-size: 20px;
+  line-height: 60px;
+  letter-spacing: 0.3px;
+}
+
+input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "DM Sans";
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: flex-start;
+  padding: 5px 60px;
+  border-radius: 10px;
+  border-color: transparent;
+}
+
+button {
+  font-family: "DM Sans";
+  color: #ffffff;
+  background-color: #daab32;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 8px 99px;
+  border-radius: 10px;
+  border-color: transparent;
+}
+logo-img {
+  margin: 30px;
+  position: relative;
+  width: 67px;
+  height: 18px;
+}
+checkbox {
+  box-sizing: border-box;
+  background: #788b9a;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 50px;
+  top: 847px;
+  opacity: 0.5;
+}
+#senha {
+  color: #ffffff;
+  background: #222131;
+  border-radius: 12px;
+  border-color: transparent;
+}
+#text1 {
+  color: #daab32;
+  font-size: 25px;
+}
+strong {
+  color: #daab32;
+}
+form {
+  color: #bdbdbd;
+}
